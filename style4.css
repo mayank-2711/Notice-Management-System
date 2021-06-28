@@ -1,0 +1,12 @@
+body{
+	background-image: url(https://uauth.unextt.com/admin/assets/img/login-bg.jpg);
+	background-position: center;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+h1{
+	color: #ffb100;
+}
+table{
+	padding: 10px;
+}
